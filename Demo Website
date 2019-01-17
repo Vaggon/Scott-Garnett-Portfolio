@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Fin Web Design | Welcome</title>
+    <link rel="stylesheet" href="./css/style.css">
+
+</head>
+
+<body>
+    <header>
+        <div class="container">
+            <div id="branding">
+                <h1><span class="highlight">Fin</span> Web Design</h1>
+            </div>
+            <nav>
+                <ul>
+                    <li class="current"><a href="idex.html">Home</a></li>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="services.html">Services</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+    <section id="showcase">
+        <div class="container">
+            <h1>Affordable Professional Web Design</h1>
+            <p>
+
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse congue mollis consequat. Pellentesque in vestibulum tortor. Proin dapibus scelerisque justo, ac pharetra sapien sollicitudin in. Morbi sit amet neque ac tellus placerat cursus. Morbi
+                scelerisque pellentesque nunc. Proin tortor massa, feugiat pulvinar maximus nec, fermentum et felis. Ut blandit dolor nibh, sed lobortis dui pharetra nec. Donec mi ex, gravida vel tortor nec, aliquam molestie metus.</p>
+            <p>
+                Phasellus molestie magna ac erat placerat, id faucibus magna interdum. Sed ultricies nunc pulvinar, scelerisque ligula ac, aliquam est. Maecenas pharetra sagittis justo, nec consequat ligula finibus eget. Suspendisse semper eros ac lorem egestas, et laoreet
+                libero mollis. Nullam vel ex risus. Aliquam tincidunt, enim nec rhoncus malesuada, justo leo faucibus lorem, in maximus velit erat quis nisl. Maecenas ornare hendrerit risus.</p>
+            <p> Donec suscipit ipsum mi, vitae vestibulum risus mattis interdum. Proin non vestibulum orci. Ut et tellus in arcu ultricies bibendum. Quisque non est in diam fringilla facilisis. Quisque non lobortis lectus, non convallis dolor. Quisque viverra
+                orci vitae lacus porttitor vestibulum. Nulla tincidunt blandit quam, nec pretium arcu. Fusce ac turpis in dolor efficitur interdum quis ac nunc. Donec mattis eu dolor sit amet efficitur. Nullam velit est, feugiat nec velit vitae, faucibus
+                scelerisque mauris.
+            </p>
+        </div>
+    </section>
+
+    <section id="newsletter">
+        <div class="container">
+            <h1>Subscribe To Our Newsletter</h1>
+            <form>
+                <input type="email" placeholder="Enter Email...">
+                <button type="submit" class="button_1...">Subscribe</button>
+            </form>
+    </section>
+    <hr>
+    <section id="boxes">
+        <div class="container">
+            <div class="box">
+                <img src="img/HTML5.png">
+                <h3>HTML5 Markup</h3>
+                <p>Sed eu egestas lectus, et volutpat libero. In vitae diam fermentum justo rutrum tincidunt. In sed porttitor urna, eu molestie nibh. Duis at sem sed est porta aliquam condimentum vitae metus.</p>
+            </div>
+            <div class="box">
+                <img src="img/css3.png">
+                <h3>CSS3 Styling</h3>
+                <p>Sed eu egestas lectus, et volutpat libero. In vitae diam fermentum justo rutrum tincidunt. In sed porttitor urna, eu molestie nibh. Duis at sem sed est porta aliquam condimentum vitae metus.</p>
+            </div>
+            <div class="box">
+                <img src="img/BRUSH.png">
+                <h3>Graphic Design</h3>
+                <p>Sed eu egestas lectus, et volutpat libero. In vitae diam fermentum justo rutrum tincidunt. In sed porttitor urna, eu molestie nibh. Duis at sem sed est porta aliquam condimentum vitae metus.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>Fin Web Design, Copyright &copy; 2019</p>
+    </footer>
+</body>
+
+</html>
